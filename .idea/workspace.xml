@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e337df7-3f58-45d5-9d02-44622177eab8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Code.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/Code.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,16 +21,73 @@
         <entry file="file://$PROJECT_DIR$/src/day2/Code.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day3/Code.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/day4/Code.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+            <state relative-caret-position="114">
+              <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+              <folding>
+                <element signature="e#14#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Strings.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="65">
+              <caret line="1222" column="24" selection-start-line="1222" selection-start-column="24" selection-end-line="1222" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="1446" column="34" selection-start-line="1446" selection-start-column="34" selection-end-line="1446" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day3/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8192" selection-start-column="8192" selection-end-column="8192" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day3/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -35,6 +96,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -47,6 +109,10 @@
         <option value="$PROJECT_DIR$/src/day2/test.txt" />
         <option value="$PROJECT_DIR$/src/day2/Code.kt" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/day3/input.txt" />
+        <option value="$PROJECT_DIR$/src/day3/test.txt" />
+        <option value="$PROJECT_DIR$/src/day3/Code.kt" />
+        <option value="$PROJECT_DIR$/src/day4/Code.kt" />
       </list>
     </option>
   </component>
@@ -80,6 +146,56 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="day2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AOC2015" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AOC2015" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AOC2015" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AOC2015" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AOC2015" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="AOC2015" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="KotlinJavaRuntime" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="AOC2015" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="KotlinJavaRuntime" type="70bed36:NamedLibraryElementNode" />
+              <item name="kotlin-stdlib.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AOC2015" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="KotlinJavaRuntime" type="70bed36:NamedLibraryElementNode" />
+              <item name="kotlin-stdlib.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AOC2015" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="KotlinJavaRuntime" type="70bed36:NamedLibraryElementNode" />
+              <item name="kotlin-stdlib.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AOC2015" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="KotlinJavaRuntime" type="70bed36:NamedLibraryElementNode" />
+              <item name="kotlin-stdlib.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -89,7 +205,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545241229365" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545248187035" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -108,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.day2.CodeKt">
+  <component name="RunManager" selected="Kotlin.day4.CodeKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -153,6 +269,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day3.CodeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="AOC2015" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="day3.CodeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day4.CodeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="AOC2015" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="day4.CodeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -172,6 +314,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.day4.CodeKt" />
+        <item itemvalue="Kotlin.day3.CodeKt" />
         <item itemvalue="Kotlin.day2.CodeKt" />
         <item itemvalue="Kotlin.day1.CodeKt" />
       </list>
@@ -195,14 +339,21 @@
       <option name="project" value="LOCAL" />
       <updated>1545241134622</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 1 and 2">
+      <created>1545241335653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545241335653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="294" y="23" width="1259" height="959" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32046014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32046014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -211,17 +362,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298731" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3298731" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -232,6 +383,32 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Day 1 and 2" />
@@ -239,6 +416,96 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/day4/Code.kt</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/day4/Code.kt</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/day4/Code.kt</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>input.length</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>md5.digest(&quot;abcdef609043&quot;.toByteArray())[2].and(0b00001111)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>md5.digest(&quot;abcdef609043&quot;.toByteArray())[2]</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>md5.digest(&quot;abcdef609043&quot;.toByteArray())</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>md5.digest()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>md5.update(&quot;pqrstuv1048970&quot;.toByteArray(Charsets.UTF_8))</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>md5.digest(&quot;pqrstuv1048970&quot;.toByteArray(Charsets.UTF_8))</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;pqrstuv1048970&quot;.toByteArray(Charsets.UTF_8)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>md5.digest(&quot;pqrstuv1048970&quot;.toByteArray())</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>count == 609043</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>count == 158</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a[0]!=byte0 &amp;&amp; a[1]!=byte0 &amp;&amp; a[2]!=byte0</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/dayN/Code.kt">
@@ -285,14 +552,62 @@
     <entry file="file://$PROJECT_DIR$/src/day2/Code.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        <state relative-caret-position="45">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day3/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8192" selection-start-column="8192" selection-end-column="8192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day3/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Strings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="1222" column="24" selection-start-line="1222" selection-start-column="24" selection-end-line="1222" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day3/Code.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day4/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="1446" column="34" selection-start-line="1446" selection-start-column="34" selection-end-line="1446" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day4/Code.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <element signature="e#14#79#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
