@@ -16,3 +16,16 @@ fun <E> List<MutableList<E>>.printWith(byLines: Boolean = true, function: (E) ->
         }
     }
 }
+
+val <E> Set<E>.permutations: List<List<E>>
+    get() = if (size == 1) listOf(listOf(first())) else flatMap { element ->
+        minus(element).permutations.map { it + element }
+    }
+
+class MultiMap<K1, K2, V> : HashMap<K1, MultiMap.ValueMap<K2, V>>(), MutableMap<K1, MultiMap.ValueMap<K2, V>> {
+    class ValueMap<K2, V> : HashMap<K2, V>(), MutableMap<K2, V> {
+        override fun get(key: K2) = super.get(key) ?: throw IllegalAccessError()
+    }
+
+    override fun get(key: K1) = super.get(key) ?: ValueMap<K2, V>().also { put(key, it) }
+}
